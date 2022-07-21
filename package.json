@@ -1,0 +1,23 @@
+{
+  "name": "complete-mongodb",
+  "version": "1.0.0",
+  "description": "All the course file for the Complete MongoDB tutorial series on the Net Ninja YouTube channel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AutoDave91/complete-mongodb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AutoDave91/complete-mongodb/issues"
+  },
+  "homepage": "https://github.com/AutoDave91/complete-mongodb#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^4.8.0"
+  }
+}
